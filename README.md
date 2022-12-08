@@ -40,7 +40,7 @@ Add example
 
 Below is a list of questions you might have about #MapPromptMonday and answers for each one
 
-######Q: I’m intimidated by all the beautiful maps because I’m not really a cartographer. Should I even do this?
+###### Q: I’m intimidated by all the beautiful maps because I’m not really a cartographer. Should I even do this?
 A: Yes, we hope you join us! We encourage people of all mapping abilities and levels to post their maps! Maps can still have important stories to tell and be great conversation-starters even if they are not deemed to be aesthetically pleasing by someone who claims to be a cartographer. We want Map Prompt Monday to be a community where anyone feels safe sharing their maps and being comfortable.
 
 Q: I want to post a map I made that’s relevant to the prompt this week
