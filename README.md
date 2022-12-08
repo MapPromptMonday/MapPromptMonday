@@ -43,23 +43,23 @@ Below is a list of questions you might have about #MapPromptMonday and answers f
 ###### Q: I’m intimidated by all the beautiful maps because I’m not really a cartographer. Should I even do this?
 A: Yes, we hope you join us! We encourage people of all mapping abilities and levels to post their maps! Maps can still have important stories to tell and be great conversation-starters even if they are not deemed to be aesthetically pleasing by someone who claims to be a cartographer. We want Map Prompt Monday to be a community where anyone feels safe sharing their maps and being comfortable.
 
-Q: I want to post a map I made that’s relevant to the prompt this week
+###### Q: I want to post a map I made that’s relevant to the prompt this week
 A: Awesome! Please at minimum do the following things before you post your map. One: Include a picture of the map when you post to Twitter (or other platform) and in the text of your post use the #MapPromptMonday hashtag so we can all quickly and efficiently access your map! Two: please add alt text (also known as alternative text) to your map image so that we are inclusive to all social media users! See the section Please Use Alt Text above.
 
-Q: I want to post a web page or other online accessible resource that’s relevant to the prompt this week
+###### Q: I want to post a web page or other online accessible resource that’s relevant to the prompt this week
 A: Great! Please remember to include a link to the resource in your post. Also, please only post free and openly accessible resources so everyone has the ability to access them.
 
-Q: I want to post a map or resource that’s not relevant to the prompt this week
+###### Q: I want to post a map or resource that’s not relevant to the prompt this week
 A: I’m glad you are enthusiastic, but please either save the maps or resources for another week when they are relevant, or feel free to post the resource on your own but without the #MapPromptMonday hashtag
 
-Q: Do I need to sign up for anything?
+###### Q: Do I need to sign up for anything?
 A: Nope! Just share and/or enjoy the maps and cartography resources everyone is posting.
 
-Q: How often should I participate?
+###### Q: How often should I participate?
 A: Participate whenever and how often you want. The idea behind having the whole week for a prompt is so people have more time and flexibility to participate. However, you are not obligated to participate any week you don’t want to or don’t have the time or energy. 
 
-Q: I have an idea for a map prompt to be done in the future!
+###### Q: I have an idea for a map prompt to be done in the future!
 A: Ideas for prompts are always appreciated and I want to hear them! Submit here:
 
-Q: Am I restricted in the tools, technologies, or data I can use to create maps?
+###### Q: Am I restricted in the tools, technologies, or data I can use to create maps?
 A: The short answer is no, you can use any tools or data to make your maps. There are a couple possible exceptions. One: a few prompts might focus on using a specific dataset or data provider. In that scenario, you can use other datasets in combination with the dataset chosen for the prompt, but at least one of your data layers used to create your map features should come from the chosen dataset. Two: please use your best judgement when choosing data sources and map visualizations by keeping data and map ethics in mind so that you are not inadvertently causing harm. Links to resources on this topic:
