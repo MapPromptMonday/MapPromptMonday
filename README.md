@@ -70,9 +70,9 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 
 Link to 2023 prompts
 
-| Week        | Prompt   | Link |
-| ---         | ---      | ---  |
-| 2023-01-02  | TBA      | link |
+| Week        | Prompt     | Link      |
+| ---         | ---        | ---       |
+| 2023-01-02  | TBA        | [link](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
 
 # Map Prompt Monday Frequently Asked Questions
 
