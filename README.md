@@ -68,15 +68,15 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 
 # Map Prompts
 
-Link to 2023 prompts
+[2023 prompts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023)
 
 | Week        | Prompt     |
 | ---         | ---        |
 | 2023-01-02  | [Region(s)](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
-| 2023-01-09  | Heatmap |
-| 2023-01-16  | Colorblind friendly |
-| 2023-01-23  | Film/TV |
-| 2023-01-30  | Flow Map |
+| 2023-01-09  | [Heatmap](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
+| 2023-01-16  | [Colorblind friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
+| 2023-01-23  | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
+| 2023-01-30  | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
 
 # Map Prompt Monday Frequently Asked Questions
 
