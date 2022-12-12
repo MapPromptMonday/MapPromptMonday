@@ -29,7 +29,9 @@ A tip of the hat to #30DayMapChallenge and #TidyTuesday for providing inspiratio
 # Please Use Alt Text
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
+
 You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images
+
 Here is a simple formula that can help you quickly generate alt text for your map:
 Alt = “map of location that shows type of data. Primary takeaway from map.”
 “Map of” – You can also be more specific here, such as choropleth or raster satellite image
