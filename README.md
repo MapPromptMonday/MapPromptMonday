@@ -32,10 +32,13 @@ Please add alt text (alternative text) to all of your posted maps for #MapPrompt
 
 You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images
 
-| Here is a simple formula that can help you quickly generate alt text for your map:
-| 
-Alt = “map of location that shows type of data. Primary takeaway from map.”
-“Map of” – You can also be more specific here, such as choropleth or raster satellite image
+> Here is a simple formula that can help you quickly generate alt text for your map:
+> 
+> Alt Text = “Map of location that shows type of data. Primary takeaway from map.”
+>
+> #### “Map of”
+> 
+> You can also be more specific here, such as choropleth or raster satellite image
 “location” – Describe the location of your map. Is it the United States, Illinois, Chicago, or the Lincoln Park neighborhood of Chicago?
 “type of data” – what data is being shown by the map?
 “Primary takeaway from map” – Summarize in a sentence what you most want the reader to know about what the map shows.
