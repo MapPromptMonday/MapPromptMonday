@@ -76,7 +76,7 @@ Link to 2023 prompts
 | 2023-01-09  | Heatmap |
 | 2023-01-16  | Colorblind friendly |
 | 2023-01-23  | Film/TV |
-| 2023-10-30  | Flow Map |
+| 2023-01-30  | Flow Map |
 
 # Map Prompt Monday Frequently Asked Questions
 
