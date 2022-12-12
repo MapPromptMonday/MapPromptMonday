@@ -32,7 +32,7 @@ Thanks for your consideration to submit ideas for possible map prompts! We will 
 
 If you have an idea for a possible map prompt, you can contribute by submitting your idea as an Issue using the following template:
 
-1) [Go to Issues](https://github.com/MapPromptMonday/MapPromptMonday/issues)
+1) [Go to Issues section](https://github.com/MapPromptMonday/MapPromptMonday/issues) and select the New Issue button
 
 2) Provide a title and short description of the map prompt as part of your submission. For example, your map prompt title could be "Points" and your description for the map prompt would say "In this prompt, participants would make a map that includes points". If your idea uses a data set, please include a link to the data set.
 
