@@ -114,7 +114,7 @@ A: Nope! Just share and/or enjoy the maps and cartography resources everyone is 
 A: Participate whenever and how often you want. The idea behind having the whole week for a prompt is so people have more time and flexibility to participate. However, you are not obligated to participate any week you don’t want to or don’t have the time or energy. 
 
 ##### Q: I have an idea for a map prompt to be done in the future!
-A: Ideas for prompts are always appreciated and I want to hear them! Submit here:
+A: Ideas for prompts are always appreciated and we want to hear them! Please follow guidelines in the "Submitting Ideas For Map Prompts" section of this page.
 
 ##### Q: Am I restricted in the tools, technologies, or data I can use to create maps?
 A: The short answer is no, you can use any tools or data to make your maps. There are a couple possible exceptions. One: a few prompts might focus on using a specific dataset or data provider. In that scenario, you can use other datasets in combination with the dataset chosen for the prompt, but at least one of your data layers used to create your map features should come from the chosen dataset. Two: please use your best judgement when choosing data sources and map visualizations by keeping data and map ethics in mind so that you are not inadvertently causing harm. Links to resources on this topic:
