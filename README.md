@@ -51,6 +51,13 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 > #### "Primary takeaway from map"
 > 
 > Summarize in a sentence what you most want the reader to know about what the map shows
+>
+> ### Example
+>
+> ![World Map of Tea Production 2019](https://user-images.githubusercontent.com/120138702/207097510-3304da4f-a1fe-4058-b0ae-9931f89baf4e.png)
+> 
+> Alt Text Example for the Map Above: "A world map showing production of tea leaves by country. China and India are the world leading producers of tea."
+
 
 
 Add example
