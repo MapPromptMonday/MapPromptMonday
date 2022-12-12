@@ -57,10 +57,14 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 > ![World Map of Tea Production 2019](https://user-images.githubusercontent.com/120138702/207097510-3304da4f-a1fe-4058-b0ae-9931f89baf4e.png)
 > 
 > Alt Text Example for the Map Above: "A world map showing production of tea leaves by country. China and India are the world leading producers of tea."
+> 
+> Map Author: Caroline Léna Becker, Map source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_Map_Tea_Production.svg)
 
+### Other resources for crafting alt text for maps and similar visuals
 
+[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
 
-Add example
+[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
 
 # Map Prompt Monday Frequently Asked Questions
 
