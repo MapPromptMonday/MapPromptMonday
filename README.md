@@ -83,7 +83,7 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 | Week        | Prompt     |
 | ---         | ---        |
 | 2023-01-02  | [Region(s)](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
-| 2023-01-09  | [Heatmap](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
+| 2023-01-09  | [Hotspot Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
 | 2023-01-16  | [Colorblind friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
 | 2023-01-23  | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
 | 2023-01-30  | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
