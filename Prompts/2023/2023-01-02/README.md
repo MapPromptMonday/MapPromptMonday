@@ -43,4 +43,4 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 
 ## Region(s) 
 
-#### Prompt: Make a map with one or more region(s). You as the maker of the map get to decide how you will define, interpret, and map your chosen region(s), whether it be a defined administrative boundary or based on physical earth and/or human cultural characteristics. The idea of this prompt is to get you to engage with the idea of how a region might be defined and think about various ways to best visualize the region(s).
+#### Prompt: Make a map with one or more region(s). You as the maker of the map get to decide how you will define, interpret, and map your chosen region(s), whether it be a defined administrative boundary or based on physical earth and/or human cultural characteristics. The goal of this prompt is to get you to engage with the idea of how a region might be defined and think about various ways to best visualize the region(s).
