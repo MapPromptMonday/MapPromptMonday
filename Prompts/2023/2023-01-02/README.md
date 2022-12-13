@@ -1,4 +1,4 @@
-## Week of 2023-01-02, Prompt = Regions
+## Week of 2023-01-02 (Prompt = Regions)
 
 ### Please Use Alt Text
 
