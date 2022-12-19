@@ -2,7 +2,7 @@
 
 This is the official repository for #MapPromptMonday, a weekly social mapping project open to everyone.
 
-The intent of Map Prompt Monday is to create a welcoming, supportive, and thoughtful community around producing and sharing maps on social media using the hashtag #MapPromptMonday. Everyone of all mapping abilities is welcome to participate! Participants should feel free to share their map creation(s) that are relevant to the weekly prompt, as well as to share any resources that could help aid others with the weekly topic.
+The intent of Map Prompt Monday is to create a welcoming, supportive, and thoughtful community around producing and sharing maps on social media using the hashtag #MapPromptMonday. **Everyone of all mapping abilities is welcome to participate!**
 
 # How Map Prompt Monday works
 
