@@ -1,4 +1,4 @@
-## Week of January 9th to January 15th (Prompt = Regions)
+## Week of January 9th to January 15th (Prompt = Hotspot Map)
 
 #### Prompt: Make a Hotspot Map on a topic of your choice. The goal of this prompt is to practice Hotspot Mapping and understand where its application is more or less appropriate.
 
