@@ -1,10 +1,18 @@
-## Week of 2023-01-23 (Prompt = Film/TV)
+## Week of January 23rd to January 29th (Prompt = Film/TV)
 
-### Please Use Alt Text
+#### Prompt: Make a map that in some way relates to Film or Television. For example, you could map locations where scenes for a movie were filmed, where actors from a TV show are from, or where characters travel in a film or television show. The choice is yours!
+
+## Please Use Alt Text (Resources)
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
 
 You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images
+
+[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
+
+[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
+
+## Please Use Alt Text (Example)
 
 > ### Here is a simple formula that can help you quickly generate alt text for your map:
 > 
@@ -34,13 +42,3 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 > 
 > Map Author: Caroline Léna Becker, Map source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_Map_Tea_Production.svg)
 
-### Other resources for crafting alt text for maps and similar visuals
-
-[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
-
-[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
-
-
-## Film/TV
-
-#### Prompt: Make a map that in some way relates to Film or Television. For example, you could map locations where scenes for a movie were filmed, where actors from a TV show are from, or where characters travel in a film or television show. The choice is yours!
