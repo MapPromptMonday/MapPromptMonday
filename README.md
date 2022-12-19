@@ -4,27 +4,39 @@
 
 The intent of Map Prompt Monday is to create a welcoming, supportive, and thoughtful community around producing and sharing maps on social media using the hashtag #MapPromptMonday.
 
+# Map Prompts
+
+[2023 prompts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023)
+
+| Week        | Prompt     |
+| ---         | ---        |
+| 2023-01-02  | [Region(s)](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
+| 2023-01-09  | [Hotspot Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
+| 2023-01-16  | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
+| 2023-01-23  | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
+| 2023-01-30  | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
+
 # How Map Prompt Monday works
 
-Each Monday will start a new prompt that will be the focus for the following week. You can make maps and compile resources you would like to share prior to the beginning of the prompt, but the idea is to share maps and other related resources during the week of the provided prompt. Given the #MapPromptMonday name you are encouraged to share on each Monday! However, knowing life circumstances will not make posting on Monday possible for everyone, you are also encouraged to share your maps and resources throughout the week of the current prompt so that we can be more inclusive and encourage participation for all!
+Each week you can create and share a map based on the provided prompt. Prompts are provided in advance, but a new prompt begins each Monday. Given the #MapPromptMonday name you are encouraged to share your maps and relevant resources on Mondays! However, knowing life is busy and to encourage participation, you are also encouraged to share your maps and resources throughout the week of the current prompt!
 
-Prompts will take a variety of forms, but they will be designed with the goal that anyone at any skill level can engage with them. For example, a prompt might focus on making a map with hexagons or to make a map based on a theme like population. As one goal is to use this project to help map makers become more thoughtful about the maps they make, occasional prompts will also focus on issues such as map accessibility (for example: make a colorblind friendly map) or similar topics. To help everyone have the ability to improve their map making skills, you can find a list of free additional resources on various mapping and cartographic topics that will continue to be added to over time [in the AdditionalResources folder](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/AdditionalResources).
+Prompts will take a variety of forms, such as focus on making a specific type of map, a map with a specific dataset, or focusing on map accessibility. To help everyone have the ability to learn more about map making, you can find a list of free additional resources on various mapping and cartographic topics that will continue to be added to over time [in the AdditionalResources folder](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/AdditionalResources).
 
-To accommodate a variety of work schedules and abilities, the weekly prompts for each month will be posted here on GitHub and announced on social media at least one week before the start of each month. For example: map prompts for each week in February will be released no later than January 25.
+Prompts will be released in advance in monthly blocks at minimum one week before the beginning of the month. For example, map prompts for all weeks in February will be released no later than January 25.
 
-See more information about how Map Prompt Monday will operate in the Frequently Asked Questions section at the end of this README file.
+Still have a question? See the Frequently Asked Questions section at the end of this README file.
 
 # Map Prompt Monday Guidelines
 
 Everyone is welcome to participate, but please follow these guidelines:
 1) Be supportive and kind to everyone participating.
 2) Please refrain from providing negative or critical unsolicited comments on another person’s map. If a person has mentioned they are open to comments, please keep comments positive, constructive, and how you envision the map might be improved.
-3) Make sure to include a picture of your map when you post it, and please add alt text to your posts. You can learn more about alt text and ideas for crafting good alt text in the section called Please Use Alt Text below.
-4) Please consider sharing information about the software or other tools you used to create your map, any code you used to create your map, and a general workflow of how you created your map to help others learn who might wish to emulate your map or style. You are not required to share any supplemental resources, but others may appreciate learning from your work.
+3) Make sure to include a picture of your map when you post it, and please add alt text to your maps. You can learn more about alt text and ideas for crafting good alt text in the section called "Please Use Alt Text" below.
+4) Please consider sharing information about how you made your map. You are not required to share any supplemental resources, but others may appreciate learning from your work.
 5) Please only post maps you have made using the #MapPromptMonday hashtag. However, feel free to reshare with attribution any other maps with this hashtag.
 6) Give credit to the data sources you use to create your map whenever possible
 
-A tip of the hat to #30DayMapChallenge and #TidyTuesday for providing inspiration to start this project and templates for how to begin operating.
+A tip of the hat to #30DayMapChallenge and #TidyTuesday for providing inspiration to start this project and templates for how to operate.
 
 # Submitting Ideas For Map Prompts
 
@@ -75,18 +87,6 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 [DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
 
 [Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
-
-# Map Prompts
-
-[2023 prompts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023)
-
-| Week        | Prompt     |
-| ---         | ---        |
-| 2023-01-02  | [Region(s)](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
-| 2023-01-09  | [Hotspot Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
-| 2023-01-16  | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
-| 2023-01-23  | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
-| 2023-01-30  | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
 
 # Map Prompt Monday Frequently Asked Questions
 
