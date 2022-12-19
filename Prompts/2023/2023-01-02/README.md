@@ -12,7 +12,7 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 
 [Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
 
-## Please Use Alt Text (Examples)
+## Please Use Alt Text (Example)
 
 > ### Here is a simple formula that can help you quickly generate alt text for your map:
 > 
