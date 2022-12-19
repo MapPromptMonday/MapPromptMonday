@@ -1,4 +1,4 @@
-## Week of January 2nd through January 8th (Prompt = Regions)
+## Week of January 2nd to January 8th (Prompt = Regions)
 
 #### Prompt: Make a map with one or more region(s). You as the maker of the map get to decide how you will define, interpret, and map your chosen region(s), whether it be a defined administrative boundary or based on physical earth and/or human cultural characteristics. The goal of this prompt is to get you to engage with the idea of how a region might be defined and think about various ways to best visualize the region(s).
 
