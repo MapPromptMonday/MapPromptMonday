@@ -8,13 +8,13 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 
 [2023 prompts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023)
 
-| Week        | Prompt     |
-| ---         | ---        |
-| 2023-01-02  | [Region(s)](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
-| 2023-01-09  | [Hotspot Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
-| 2023-01-16  | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
-| 2023-01-23  | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
-| 2023-01-30  | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
+| Start Date    | End Date   | Prompt     |
+| ---           | ---        | ---        |
+| 2023-01-02    | 2023-01-08 | [Region(s)](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
+| 2023-01-09    | 2023-01-15 | [Hotspot Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
+| 2023-01-16    | 2023-01-22 | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
+| 2023-01-23    | 2023-01-29 | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
+| 2023-01-30    | 2023-02-05 | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
 
 # How Map Prompt Monday works
 
