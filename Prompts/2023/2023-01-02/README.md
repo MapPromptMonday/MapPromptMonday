@@ -1,10 +1,18 @@
-## Week of 2023-01-02 (Prompt = Regions)
+## Week of January 2nd through January 8th (Prompt = Regions)
 
-### Please Use Alt Text
+#### Prompt: Make a map with one or more region(s). You as the maker of the map get to decide how you will define, interpret, and map your chosen region(s), whether it be a defined administrative boundary or based on physical earth and/or human cultural characteristics. The goal of this prompt is to get you to engage with the idea of how a region might be defined and think about various ways to best visualize the region(s).
+
+## Please Use Alt Text (Resources)
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
 
 You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images
+
+[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
+
+[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
+
+## Please Use Alt Text (Examples)
 
 > ### Here is a simple formula that can help you quickly generate alt text for your map:
 > 
@@ -34,13 +42,3 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 > 
 > Map Author: Caroline Léna Becker, Map source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_Map_Tea_Production.svg)
 
-### Other resources for crafting alt text for maps and similar visuals
-
-[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
-
-[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
-
-
-## Region(s) 
-
-#### Prompt: Make a map with one or more region(s). You as the maker of the map get to decide how you will define, interpret, and map your chosen region(s), whether it be a defined administrative boundary or based on physical earth and/or human cultural characteristics. The goal of this prompt is to get you to engage with the idea of how a region might be defined and think about various ways to best visualize the region(s).
