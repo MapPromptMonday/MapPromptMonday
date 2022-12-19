@@ -1,10 +1,18 @@
-## Week of 2023-01-16 (Prompt = Colorblind Friendly)
+## Week of January 16th to January 22nd (Prompt = Colorblind Friendly)
 
-### Please Use Alt Text
+#### Prompt: Make a map on a topic of your choice, but that uses a colorblind friendly color scheme with at minimum two colors. In other words, the goal is for you to engage with multi-color schemes in your mapping that are colorblind friendly, rather than monochrome or single color maps (which also are usually colorblind friendly).
+
+## Please Use Alt Text (Resources)
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
 
 You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images
+
+[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
+
+[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
+
+## Please Use Alt Text (Example)
 
 > ### Here is a simple formula that can help you quickly generate alt text for your map:
 > 
@@ -34,13 +42,3 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 > 
 > Map Author: Caroline Léna Becker, Map source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_Map_Tea_Production.svg)
 
-### Other resources for crafting alt text for maps and similar visuals
-
-[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
-
-[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
-
-
-## Colorblind Friendly
-
-#### Prompt: Make a map on a topic of your choice, but that uses a colorblind friendly color scheme with at minimum two colors. In other words, the goal is for you to engage with multi-color schemes in your mapping that are colorblind friendly, rather than monochrome or single color maps (which also are usually colorblind friendly).
