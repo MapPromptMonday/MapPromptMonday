@@ -18,7 +18,7 @@ See more information about how Map Prompt Monday will operate in the Frequently 
 
 Everyone is welcome to participate, but please follow these guidelines:
 1) Be supportive and kind to everyone participating.
-2) Please refrain from providing negative or critical unsolicited comments on another person’s map unless a person has indicated in their post they are open to feedback. If a person has mentioned they are open to comments, please keep comments positive, constructive, and how you envision the map might be improved.
+2) Please refrain from providing negative or critical unsolicited comments on another person’s map. If a person has mentioned they are open to comments, please keep comments positive, constructive, and how you envision the map might be improved.
 3) Make sure to include a picture of your map when you post it, and please add alt text to your posts. You can learn more about alt text and ideas for crafting good alt text in the section called Please Use Alt Text below.
 4) Please consider sharing information about the software or other tools you used to create your map, any code you used to create your map, and a general workflow of how you created your map to help others learn who might wish to emulate your map or style. You are not required to share any supplemental resources, but others may appreciate learning from your work.
 5) Please only post maps you have made using the #MapPromptMonday hashtag. However, feel free to reshare with attribution any other maps with this hashtag.
