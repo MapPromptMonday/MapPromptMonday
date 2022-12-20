@@ -42,15 +42,15 @@ A tip of the hat to #30DayMapChallenge and #TidyTuesday for providing inspiratio
 
 Thanks for your Map Prompt ideas! We will work to implement all submitted ideas into future prompts that meet the following criteria: (1) the topic is general enough to allow participants flexibility and variety to create maps in different ways and interpretations; (2) the prompt is relatively short and simple; (3) the topic and prompt are accessible to people at all skill levels.
 
-You can submit your idea for a map prompt in two different ways:
+You can submit your idea for a map prompt in one of two ways:
 
-#### Submit A New Issue via GitHub
+#### (1) Submit A New Issue via GitHub
 
 1) [Go to Issues section](https://github.com/MapPromptMonday/MapPromptMonday/issues) and select the New Issue button
 
 2) Provide a title and short description of the map prompt as part of your submission. For example, your map prompt title could be "Points" and your description for the map prompt would say "In this prompt, participants would make a map that includes points". If your idea uses a data set, please include a link to the data set.
 
-#### Provide Prompt via Google Form
+#### (2) Provide Prompt via Google Form
 
 [Go to the linked Google Form here](https://forms.gle/t96VGVrDyRk223Ev8) and follow the instructions to submit your prompt idea.
 
