@@ -29,8 +29,8 @@ Still have a question? See the Frequently Asked Questions section at the end of 
 # Map Prompt Monday Guidelines
 
 Everyone is welcome to participate, but please follow these guidelines:
-1) Be supportive and kind to everyone participating.
-2) Please refrain from providing negative or critical unsolicited comments on another person’s map. If a person has mentioned they are open to comments, please keep comments positive, constructive, and how you envision the map might be improved.
+1) Be supportive and kind to all participants.
+2) Please no negative or critical unsolicited comments on another person’s map. If a person says they are open to comments, please keep comments positive, constructive, and how you envision the map might be improved.
 3) Make sure to include a picture of your map when you post it, and please add alt text to your maps. You can learn more about alt text and ideas for crafting good alt text in the section called "Please Use Alt Text" below.
 4) Please consider sharing information about how you made your map. You are not required to share any supplemental resources, but others may appreciate learning from your work.
 5) Please only post maps you have made using the #MapPromptMonday hashtag. However, feel free to reshare with attribution any other maps with this hashtag.
@@ -40,19 +40,29 @@ A tip of the hat to #30DayMapChallenge and #TidyTuesday for providing inspiratio
 
 # Submitting Ideas For Map Prompts
 
-Thanks for your consideration to submit ideas for possible map prompts! We will do our best to consider and include your submitted ideas. Ideas for future prompts have the best liklihood of being used if they are general enough to allow participants to have flexibility and variety to create maps in different ways and interpretations, they are relatively short and simple, and if they are accessible to people at all skill levels.
+Thanks for your Map Prompt ideas! We will work to implement all submitted ideas into future prompts that meet the following criteria: (1) the topic is general enough to allow participants flexibility and variety to create maps in different ways and interpretations; (2) the prompt is relatively short and simple; (3) the topic and prompt are accessible to people at all skill levels.
 
-If you have an idea for a possible map prompt, you can contribute by submitting your idea as an Issue using the following template:
+You can submit your idea for a map prompt in two different ways:
+
+#### Submit A New Issue via GitHub
 
 1) [Go to Issues section](https://github.com/MapPromptMonday/MapPromptMonday/issues) and select the New Issue button
 
 2) Provide a title and short description of the map prompt as part of your submission. For example, your map prompt title could be "Points" and your description for the map prompt would say "In this prompt, participants would make a map that includes points". If your idea uses a data set, please include a link to the data set.
+
+#### Provide Prompt via Google Form
+
+[Go to the linked Google Form here](https://forms.gle/t96VGVrDyRk223Ev8) and follow the instructions to submit your prompt idea.
 
 # Please Use Alt Text
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
 
 You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images
+
+[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
+
+[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
 
 > ### Here is a simple formula that can help you quickly generate alt text for your map:
 > 
@@ -81,12 +91,6 @@ You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter
 > Alt Text Example for the Map Above: "A world map showing production of tea leaves by country. China and India are the world leading producers of tea."
 > 
 > Map Author: Caroline Léna Becker, Map source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:World_Map_Tea_Production.svg)
-
-### Other resources for crafting alt text for maps and similar visuals
-
-[DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
-
-[Penn State Charts and Accessibility article](https://accessibility.psu.edu/images/charts/)
 
 # Map Prompt Monday Frequently Asked Questions
 
