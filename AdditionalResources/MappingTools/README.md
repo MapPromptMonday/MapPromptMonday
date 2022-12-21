@@ -9,7 +9,7 @@ QGIS is a free and open source Geographic Information System software that you c
 
 ### [R Geospatial Packages](https://www.r-project.org/)
 
-R is a free command-line driven software originally designed for statistical computing and graphics, but many packages (or plug-ins) have been designed and can be accessed to provide an array of geospatial capabilities. A number of the most commonly used packages for geospatial analyses include:
+R is a free command-line driven software originally designed for statistical computing and graphics, but many packages (or plug-ins) have been designed and can be accessed to provide an array of geospatial capabilities. Below are just a small selection of packages frequently used for geospatial analyses:
 
 [sf](https://r-spatial.github.io/sf/): simple features for R
 
@@ -20,3 +20,4 @@ R is a free command-line driven software originally designed for statistical com
 [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html): for thematic mapping
 
 [rayshader](https://www.rayshader.com/): create 2D and 3D data visualizations
+
