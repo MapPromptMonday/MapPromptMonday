@@ -16,7 +16,7 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-01-23    | 2023-01-29 | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
 | 2023-01-30    | 2023-02-05 | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
 
-# How Map Prompt Monday works
+# How Map Prompt Monday Works
 
 Each week you can create and share a map based on the provided prompt. Prompts are provided in advance, but a new prompt begins each Monday. Given the #MapPromptMonday name you are encouraged to share your maps and relevant resources on Mondays! However, knowing life is busy and to encourage participation, you are also encouraged to share your maps and resources throughout the week of the current prompt!
 
