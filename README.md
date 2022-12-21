@@ -1,3 +1,5 @@
+![A world map created using bounding boxes of internal administrative boundaries. Text on the map says Map Prompt Monday. A weekly social mapping project for everyone!](https://user-images.githubusercontent.com/120138702/208989231-043ebc41-c798-4112-8f68-be6f1ad225dd.jpg)
+
 # Welcome to Map Prompt Monday!
 
 **This is the official repository for #MapPromptMonday, a weekly social mapping project open to everyone.**
