@@ -6,6 +6,9 @@ The tools listed below are * free open source tools* available to anyone. Howeve
 
 QGIS is a free and open source Geographic Information System software that you can install on your computer. QGIS provides you to tools to read and write multiple data formats and output a variety of map types.
 
+### [Felt](https://felt.com/)
+
+Felt is a website with basic map-making tools where you can use data on their website or bring in your own, then make a variety of edits and annotations.
 
 ### [R Geospatial Packages](https://www.r-project.org/)
 
@@ -21,3 +24,10 @@ R is a free command-line driven software originally designed for statistical com
 
 [rayshader](https://www.rayshader.com/): create 2D and 3D data visualizations
 
+### [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
+
+Aerialod is path tracing renderer that can be used to create 3D visualizations
+
+### [Blender](https://www.blender.org/)
+
+Blender provides a 3D creation suite of tools. You can also work on spatial data in Blender with the help of the [BlenderGIS add-ons](https://github.com/domlysz/BlenderGIS)
