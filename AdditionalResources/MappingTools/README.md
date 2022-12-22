@@ -1,6 +1,8 @@
 ## Mapping Tools/Software
 
-The tools listed below are * free open source tools* available to anyone. However, map prompts can be completed using any type of tools/software, including without GIS/Mapping software or without a computer.
+Below is a selection of *free open source mapping tools* available to anyone. However, map prompts can be completed using any type of tools/software, including without GIS/Mapping software or without a computer.
+
+If you are looking for tutorials for many of these tools, [see the Tutorials & References Section](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/AdditionalResources/Tutorials%26References)
 
 ### [QGIS](https://www.qgis.org/en/site/)
 
