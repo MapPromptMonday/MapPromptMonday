@@ -24,6 +24,10 @@ R is a free command-line driven software originally designed for statistical com
 
 [rayshader](https://www.rayshader.com/): create 2D and 3D data visualizations
 
+[osmplotr](https://github.com/ropensci/osmplotr): produce maps using OpenStreetMap (OSM) data 
+
+[cartography](https://cran.r-project.org/web/packages/cartography/vignettes/cartography.html): control visual quality of thematic maps
+
 ### [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
 
 Aerialod is path tracing renderer that can be used to create 3D visualizations
