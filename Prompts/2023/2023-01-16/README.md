@@ -2,6 +2,14 @@
 
 #### Prompt: Make a map on a topic of your choice, but that uses a colorblind friendly color scheme with at minimum two colors. In other words, the goal is for you to engage with multi-color schemes in your mapping that are colorblind friendly, rather than monochrome or single color maps (which also are usually colorblind friendly).
 
+Below are some resources to get you thinking and engaging more with colorblind friendly color schemes:
+
+##### [Vischeck](http://www.vischeck.com/vischeck/vischeckImage.php): simulates colorblind vision for uploaded images
+
+##### [Color Oracle](https://colororacle.org/index.html): color blindness simulator for Windows, Mac and Linux
+
+##### [Paul Tol: Intro to Color Schemes](https://personal.sron.nl/~pault/): colorblind friendly schemes for qualitative, diverging, and sequential data
+
 ## Please Use Alt Text (Resources)
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
