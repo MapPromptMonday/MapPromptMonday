@@ -58,6 +58,8 @@ The resources below will continue to be added to over time
 
 [eyedroppeR](https://github.com/doehm/eyedroppeR): select colors from an image
 
+[scico](https://github.com/thomasp85/scico): Scientific color palettes
+
 #### Other Miscellaneous Color-related Tools
 
 [Sequential Color Scheme Generator](http://eyetracking.upol.cz/color/): Generate sequential color schemes
