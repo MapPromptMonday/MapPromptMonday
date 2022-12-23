@@ -14,7 +14,7 @@ https://gistbok.ucgis.org/bok-topics/flow-maps
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
 
-You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images
+You can find [Twitter guidelines here](https://help.twitter.com/en/using-twitter/picture-descriptions) how to add alt text to your images, as well as [a description on Twitter Help here](https://help.twitter.com/en/using-twitter/set-image-description-reminder#:~:text=Select%20Settings%20and%20privacy.&text=Select%20Accessibility%2C%20display%2C%20and%20languages.&text=Select%20Accessibility.&text=In%20the%20Media%20section%2C%20select,for%20Receive%20image%20description%20reminder.) how you can set up image description reminders when you have tweets with images
 
 [DataViz Society/Nightingale article on alt text](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81)
 
