@@ -1,11 +1,15 @@
 ## Tutorials & References
+Below are links to tutorials and references on various topics related to mapping and cartography
 
-In this section you can find links to tutorials and references on various topics related to mapping and cartography
+Topical headers sorted under the Tutorials and References sections are sorted alphabetically
 
-This section will continue to be added to over time
+The resources below will continue to be added to over time
 
 
 ## Tutorials
+
+### Blender 
+[How to Create 3D Terrain with Google Maps and Blender! - YouTube](https://www.youtube.com/watch?v=Mj7Z1P2hUWk&ab_channel=CGGeek): A concise guide on how to use Google Maps in Blender to build 3D terrain maps.
 
 ### QGIS
 
@@ -27,8 +31,6 @@ This section will continue to be added to over time
 
 [Make Your Own Interactive Map of COVID-19 Spread Using R Shiny - YouTube](https://www.youtube.com/watch?v=eIpiL6y1oQQ&ab_channel=RockEDUScienceOutreach): A detailed guide on how to create an interactive choropleth map utilizing COVID-19-related public data sources.
 
-### Blender 
-[How to Create 3D Terrain with Google Maps and Blender! - YouTube](https://www.youtube.com/watch?v=Mj7Z1P2hUWk&ab_channel=CGGeek): A concise guide on how to use Google Maps in Blender to build 3D terrain maps.
 
 ## References
 
