@@ -4,11 +4,11 @@
 
 Some resources to help you get started:
 
-[What is the Difference Between a Heat Map and a Hot Spot Map?](https://www.gislounge.com/difference-heat-map-hot-spot-map/)
+- [What is the Difference Between a Heat Map and a Hot Spot Map?](https://www.gislounge.com/difference-heat-map-hot-spot-map/)
 
-[Heat Maps in GIS](https://www.gislounge.com/heat-maps-in-gis/)
+- [Heat Maps in GIS](https://www.gislounge.com/heat-maps-in-gis/)
 
-[Hot Spot Spatial Analyses](https://www.publichealth.columbia.edu/research/population-health-methods/hot-spot-spatial-analysis)
+- [Hot Spot Spatial Analyses](https://www.publichealth.columbia.edu/research/population-health-methods/hot-spot-spatial-analysis)
 
 ## Please Use Alt Text (Resources)
 
