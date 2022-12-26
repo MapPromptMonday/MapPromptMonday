@@ -4,11 +4,9 @@
 
 Resources to help you get started:
 
-- UCGIS GIS&T Body of Knowledge, Common Thematic Map Types (see section 3.7 on Flow Maps)
-https://gistbok.ucgis.org/bok-topics/common-thematic-map-types
+- [UCGIS GIS&T Body of Knowledge, Common Thematic Map Types (see section 3.7 on Flow Maps)](https://gistbok.ucgis.org/bok-topics/common-thematic-map-types)
 
-- UCGIS GIS&T Body of Knowledge, Flow Maps
-https://gistbok.ucgis.org/bok-topics/flow-maps
+- [UCGIS GIS&T Body of Knowledge, Flow Maps](https://gistbok.ucgis.org/bok-topics/flow-maps)
 
 ## Please Use Alt Text (Resources)
 
