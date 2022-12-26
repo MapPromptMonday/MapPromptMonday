@@ -4,11 +4,11 @@
 
 Below are some resources to get you thinking and engaging more with colorblind friendly color schemes:
 
-##### [Vischeck](http://www.vischeck.com/vischeck/vischeckImage.php): simulates colorblind vision for uploaded images
+- [Vischeck](http://www.vischeck.com/vischeck/vischeckImage.php): simulates colorblind vision for uploaded images
 
-##### [Color Oracle](https://colororacle.org/index.html): color blindness simulator for Windows, Mac and Linux
+- [Color Oracle](https://colororacle.org/index.html): color blindness simulator for Windows, Mac and Linux
 
-##### [Paul Tol: Intro to Color Schemes](https://personal.sron.nl/~pault/): colorblind friendly schemes for qualitative, diverging, and sequential data
+- [Paul Tol: Intro to Color Schemes](https://personal.sron.nl/~pault/): colorblind friendly schemes for qualitative, diverging, and sequential data
 
 ## Please Use Alt Text (Resources)
 
