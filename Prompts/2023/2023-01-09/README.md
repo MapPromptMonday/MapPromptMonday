@@ -1,6 +1,14 @@
-## Week of January 9th to January 15th (Prompt = Hotspot Map)
+## Week of January 9th to January 15th (Prompt = Heat Map or Hot Spot Map)
 
-#### Prompt: Make a Hotspot Map on a topic of your choice. The goal of this prompt is to practice Hotspot Mapping and understand where its application is more or less appropriate.
+#### Prompt: Make a Heat Map or a Hot Spot Map on a topic of your choice. The goal of this prompt is to practice Heat or Hot Spot Mapping and understand where their applications are more or less appropriate.
+
+Some resources to help you get started:
+
+[What is the Difference Between a Heat Map and a Hot Spot Map?](https://www.gislounge.com/difference-heat-map-hot-spot-map/)
+
+[Heat Maps in GIS](https://www.gislounge.com/heat-maps-in-gis/)
+
+[Hot Spot Spatial Analyses](https://www.publichealth.columbia.edu/research/population-health-methods/hot-spot-spatial-analysis)
 
 ## Please Use Alt Text (Resources)
 
