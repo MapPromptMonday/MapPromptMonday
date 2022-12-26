@@ -2,7 +2,7 @@
 
 #### Prompt: Make a Flow Map on a topic of your choice. The goal of this prompt is to practice making and understand the various applications and types of Flow Maps.
 
-##### Resources to help you get started:
+Resources to help you get started:
 
 - UCGIS GIS&T Body of Knowledge, Common Thematic Map Types (see section 3.7 on Flow Maps)
 https://gistbok.ucgis.org/bok-topics/common-thematic-map-types
