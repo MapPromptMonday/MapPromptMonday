@@ -31,12 +31,13 @@ Still have a question? See the Frequently Asked Questions section at the end of 
 # Map Prompt Monday Guidelines
 
 Everyone is welcome to participate, but please follow these guidelines:
-1) Be supportive and kind to all participants.
-2) Please no negative or critical unsolicited comments on another person’s map. If a person says they are open to comments, please keep comments positive, constructive, and how you envision the map might be improved.
-3) Make sure to include a picture of your map when you post it, and please add alt text to your maps. You can learn more about alt text and ideas for crafting good alt text in the section called "Please Use Alt Text" below.
-4) Please consider sharing information about how you made your map. You are not required to share any supplemental resources, but others may appreciate learning from your work.
-5) Please only post maps you have made using the #MapPromptMonday hashtag. However, feel free to reshare with attribution any other maps with this hashtag.
-6) Give credit to the data sources you use to create your map whenever possible
+1) Be supportive and kind to all participants and [follow our Code of Conduct](https://github.com/MapPromptMonday/MapPromptMonday/blob/main/CODE_OF_CONDUCT.md)
+2) Strive to make ethical maps using best practices and be mindful of your power as mapmaker. For background and references on these topics, see the [Map & Data Ethics section of the Tutorials & References page in the Additional Resources folder (https://github.com/MapPromptMonday/MapPromptMonday/tree/main/AdditionalResources/Tutorials%26References)
+3) Please no negative or critical unsolicited comments on another person’s map. If a person says they are open to comments, please keep comments positive, constructive, and how you envision the map might be improved.
+4) Make sure to include a picture of your map when you post it, and please add alt text to your maps. You can learn more about alt text and ideas for crafting good alt text in the section called "Please Use Alt Text" below.
+5) Please consider sharing information about how you made your map. You are not required to share any supplemental resources, but others may appreciate learning from your work.
+6) Please only post maps you have made using the #MapPromptMonday hashtag. However, feel free to reshare with attribution any other maps with this hashtag.
+7) Give credit to the data sources you use to create your map whenever possible
 
 A tip of the hat to #30DayMapChallenge and #TidyTuesday for providing inspiration to start this project and templates for how to operate.
 
