@@ -19,7 +19,11 @@ The resources below will continue to be added to over time
 
 [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/) by Ujaval Gandhi is another great learning and reference resource for QGIS
 
+[Daniel Coe Tutorials](https://dancoecarto.com/tutorials): Tutorials on creating DEMs and REMs by cartographer Daniel Coe
+
 ### R
+
+[Geocomputation with R](https://geocompr.robinlovelace.net/): A book by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow on geographic data analysis, visualization and modeling. Chapter 9 specifically focuses on making maps in R.
 
 [Creating High-Quality 3D Visuals with Rayshader](https://spencerschien.info/post/data_viz_how_to/high_quality_rayshader_visuals/) by Spencer Schien provides A detailed step-by-step guide on how to make 3D maps using the "rayshader" package All the required code may be found in the GitHub repository that is included.
 
@@ -67,3 +71,11 @@ The resources below will continue to be added to over time
 [Paletton](https://paletton.com/): Color Scheme Designer
 
 [0 to 255](https://0to255.com/): Help picking Lighter and Darker Colors
+
+### Fonts and Text
+
+[Cartographers’ Preferred Typefaces](https://somethingaboutmaps.wordpress.com/2018/02/12/cartographers-preferred-typefaces/) Blog post by Daniel Huffman describing the preferred typefaces of cartographers interviewed by Daniel
+
+[Chapter 7: Typography](https://alg.manifoldapp.org/read/introduction-to-cartography/section/f040bcf8-a5a9-4261-a749-9f793220c702) Part of a book called *Introduction to Cartography* published by the University System of Georgia
+
+[Labeling and text hierarchy in cartography](https://www.axismaps.com/guide/labeling): A guide by Axis Maps to placing text on your maps
