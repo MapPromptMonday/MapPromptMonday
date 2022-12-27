@@ -79,3 +79,11 @@ The resources below will continue to be added to over time
 [Chapter 7: Typography](https://alg.manifoldapp.org/read/introduction-to-cartography/section/f040bcf8-a5a9-4261-a749-9f793220c702) Part of a book called *Introduction to Cartography* published by the University System of Georgia
 
 [Labeling and text hierarchy in cartography](https://www.axismaps.com/guide/labeling): A guide by Axis Maps to placing text on your maps
+
+### Map and Data Ethics
+
+[Cartography and Power](http://gistbok.ucgis.org/bok-topics/cartography-and-power): Section from GIS Body of Knowledge on the power and ethics of map making to be aware of, with links to many other references and resources used to create the entry
+
+[Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization): A report by the Urban Institute on best practices for ethical data visualization
+
+[British Cartographic Society Code of Ethics](https://www.cartography.org.uk/code-of-ethics): One set of code of ethics for cartographers that can serve as a starting point for ethical conduct in map making
