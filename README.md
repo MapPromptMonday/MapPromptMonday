@@ -17,6 +17,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-01-16    | 2023-01-22 | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
 | 2023-01-23    | 2023-01-29 | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
 | 2023-01-30    | 2023-02-05 | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
+| 2023-02-06    | 2023-02-12 | [Climate/Weather](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-06)
+| 2023-02-13    | 2023-02-19 | [Bivariate Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-13)
+| 2023-02-20    | 2023-02-26 | [Black and White / Grayscale](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-20)
+| 2023-02-27    | 2023-03-05 | [NGO Data](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-27)
 
 # How Map Prompt Monday Works
 
