@@ -1,6 +1,6 @@
 ## Week of February 6th to February 12th (Prompt = Climate/Weather)
 
-#### Prompt: Make a map that relates to weather or climate. Climate or weather maps are graphical representations of atmospheric conditions at a particular time and place. Weather maps can show a variety of information, including temperature, precipitation, wind direction and speed, pressure, and cloud cover. They can be created using data from a variety of sources, including weather satellites, radar, weather balloons, and surface observations. Examples of weather maps are isotherms, weather fronts, and precipitation maps, while climate maps can show changes or deviations of temperature or precipitation over a specified time period.
+#### Prompt: Make a map that relates to weather or climate. Climate or weather maps are graphical representations of atmospheric conditions at or over a particular time and place. Weather maps can show a variety of information, including temperature, precipitation, wind direction and speed, pressure, and cloud cover. They can be created using data from a variety of sources, including weather satellites, radar, weather balloons, and surface observations. Examples of weather maps are isotherms, weather fronts, and precipitation maps, while climate maps can show changes or deviations of temperature or precipitation over a specified time period.
 
 Places with free data you might want to use:
 
