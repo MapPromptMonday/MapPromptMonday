@@ -2,7 +2,7 @@
 
 #### Prompt: Remotely sensed images of Earth's surface have become commonplace in today's maps. For this prompt, make a map using some form of earth imagery, such as satellite or aerial photography.
 
-Below are some possible data sources from NGOs you might uses:
+Below are some possible data sources you might use:
 
 Resources to be added
 
