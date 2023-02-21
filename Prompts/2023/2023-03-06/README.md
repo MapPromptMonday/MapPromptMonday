@@ -2,6 +2,8 @@
 
 #### Prompt: Pick your favorite animal(s) and make a map about it to help others learn about your favorite creature(s)! For example, you could make a habitat range map for your favorite animal(s) using data from the IUCN Red List, which provides habitat range shapefiles across an extensive list of species.
 
+To access a polygon shapefile of an animal's range on the [IUCN Red List website], you will need to register for a free account. Then, search for your animal and under the species page use the 'Download' tab to download the Range Data - Polygons.
+
 ## Please Use Alt Text (Resources)
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
