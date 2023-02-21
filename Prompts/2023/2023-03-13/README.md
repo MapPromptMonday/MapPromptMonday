@@ -2,9 +2,7 @@
 
 #### Prompt: Remotely sensed images of Earth's surface have become commonplace in today's maps. For this prompt, make a map using some form of earth imagery, such as satellite or aerial photography.
 
-Below are some possible data sources you might use:
-
-Resources to be added
+Looking for data to get started? [This article link to GISGeography.com](https://gisgeography.com/free-satellite-imagery-data-list/) provides you with 15 places you can search for free satellite imagery.
 
 ## Please Use Alt Text (Resources)
 
