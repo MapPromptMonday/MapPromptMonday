@@ -1,4 +1,4 @@
-## Week of April 24th to 30th (Prompt = Environment)
+## Week of April 24th to 30th (Prompt = Disease)
 
 #### Prompt: Pick a disease and make a map about it. You could choose a historical disease such as the Bubonic Plague, or a more recent one like COVID-19 (it also doesn’t have to be a disease that resulted in a pandemic). You could map the progression of a disease over time, highlighting the places where it first emerged, where it spread the most, and where it eventually receded. Alternatively, you could map other information related to the disease, such as the demographics of affected populations or the measures taken by governments and healthcare systems to control the spread of the disease. This type of mapping can provide valuable insights into the way diseases and viruses spread and could be used to inform public health policies and strategies.
 
