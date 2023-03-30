@@ -2,6 +2,14 @@
 
 #### Prompt: Topography is the study of the forms and features of land surfaces, and many kinds of maps often include topographic representations, such as topographic (isoline) maps, two-dimensional digital elevation rasters, or three-dimensional models of landscapes. For this prompt, create a map that depicts topography in a map format of your choice!
 
+There are many resources to get free topography data, but here are a few ideas of where to start:
+
+For the United States, the United States Geological Survey has its library of LiDAR data in the [3DEP LidarExplorer](https://apps.nationalmap.gov/lidar-explorer/#/). Daniel Coe provides a nice tutorial [how to use 3DEP LidarExplorer to download data](https://dancoecarto.com/downloading-and-preparing-lidar-dems-for-rem-processing).
+
+For countires in Europe, see the great [Twitter thread here](https://twitter.com/neilcfd1/status/1519352461391286272) by Neil Southall for places to get LiDAR data. Similarly, [this Twitter thread](https://twitter.com/cbed32/status/1641118550956949519) by Christopher Beddow you can find LiDAR resources for a number of countries around the world.
+
+If you are going for a worldwide or regional map and would prefer pre-prepared topography data, sites such as [Natural Earth Data](https://www.naturalearthdata.com/downloads/) will provide you raster topography data at various scales.
+
 ## Please Use Alt Text (Resources)
 
 Please add alt text (alternative text) to all of your posted maps for #MapPromptMonday
