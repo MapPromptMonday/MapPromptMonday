@@ -15,3 +15,7 @@ Unless the focus of a prompt is to use a specific data set, **you can use any da
 [Free GIS Data](https://freegisdata.rtwilson.com/): A website with a categorised list of links to over 500 sites providing freely available geographic datasets
 
 [Humanitarian Data Exchange](https://data.humdata.org/): Datasets relevant to humanitarian causes and population from around the world
+
+[EfoxMaps GIS Data Sources](https://vlckel.notion.site/vlckel/a360dea317234868a0f7cfb1ef249843?v=2923f79780214ec390b9f0fefbc1c002): An extensive list of GIS-applicable data sources
+
+[Maptastic Resources by Kate Berg](https://docs.google.com/spreadsheets/d/1aLOpW2oQHw5r2vc70o8TiM5SJctR9TuH4a70d-ZtbXA/edit#gid=0): A list of various GIS data portals
