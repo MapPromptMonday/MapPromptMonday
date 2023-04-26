@@ -1,4 +1,4 @@
-## Week of April 17th to 23rd (Prompt = Environment)
+## Week of May 1st to 7th (Prompt = Urban vs. Rural)
 
 #### Prompt: Create a map that showcases urban / rural divide (or different levels of urbanicity) across a given dimension, such as electrification, infrastructure, access to healthcare, etc…it’s up to you!
 
