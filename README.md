@@ -29,6 +29,11 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-04-10    | 2023-04-16 | [Topography](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-04-10)
 | 2023-04-17    | 2023-04-23 | [Environment](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-04-17)
 | 2023-04-24    | 2023-04-30 | [Disease](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-04-24)
+| 2023-05-01    | 2023-05-07 | [Urban vs. Rural](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-01)
+| 2023-05-08    | 2023-05-14 | [Home](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-08)
+| 2023-05-15    | 2023-05-21 | [Proportional Symbols](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-15)
+| 2023-05-22    | 2023-05-28 | [Book Cover](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-22)
+| 2023-05-29    | 2023-06-04 | [Climate Chg Vulnerability](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-29)
 
 # How Map Prompt Monday Works
 
