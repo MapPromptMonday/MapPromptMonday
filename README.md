@@ -34,6 +34,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-05-15    | 2023-05-21 | [Proportional Symbols](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-15)
 | 2023-05-22    | 2023-05-28 | [Book Cover](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-22)
 | 2023-05-29    | 2023-06-04 | [Climate Chg Vulnerability](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-29)
+| 2023-06-05    | 2023-06-11 | [Safety](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-05)
+| 2023-06-12    | 2023-06-18 | [Arctic or Antarctic](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-12)
+| 2023-06-19    | 2023-06-25 | [Solstice/Seasons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-19)
+| 2023-06-26    | 2023-07-02 | [Plants](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-26)
 
 # How Map Prompt Monday Works
 
