@@ -38,6 +38,11 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-06-12    | 2023-06-18 | [Arctic or Antarctic](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-12)
 | 2023-06-19    | 2023-06-25 | [Solstice/Seasons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-19)
 | 2023-06-26    | 2023-07-02 | [Plants](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-26)
+| 2023-07-03    | 2023-07-09 | [Snow or Ice](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-03)
+| 2023-07-10    | 2023-07-16 | [Deserts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-10)
+| 2023-07-17    | 2023-07-23 | [Desserts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-17)
+| 2023-07-24    | 2023-07-30 | [Natural Wonders](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-24)
+| 2023-07-31    | 2023-08-06 | [Health](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-31)
 
 # How Map Prompt Monday Works
 
