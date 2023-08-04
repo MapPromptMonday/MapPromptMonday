@@ -43,6 +43,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-07-17    | 2023-07-23 | [Desserts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-17)
 | 2023-07-24    | 2023-07-30 | [Natural Wonders](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-24)
 | 2023-07-31    | 2023-08-06 | [Health](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-31)
+| 2023-08-07    | 2023-08-13 | [Voronoi Polygons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-07)
+| 2023-08-14    | 2023-08-20 | [Map of Personalities](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-14)
+| 2023-08-21    | 2023-08-27 | [Purple](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-21)
+| 2023-08-28    | 2023-09-03 | [Media to Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-28)
 
 # How Map Prompt Monday Works
 
