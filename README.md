@@ -51,6 +51,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-09-11    | 2023-09-17 | [Transportation](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-09-11)
 | 2023-09-18    | 2023-09-24 | [Firefly Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-09-18)
 | 2023-09-25    | 2023-10-01 | [Sports](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-09-25)
+| 2023-10-02    | 2023-10-08 | [Water](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-02)
+| 2023-10-09    | 2023-10-15 | [Three Dimensions](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-09)
+| 2023-10-16    | 2023-10-22 | [Money](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-16)
+| 2023-10-23    | 2023-10-29 | [Spooky](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-23)
 
 # How Map Prompt Monday Works
 
