@@ -55,6 +55,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2023-10-09    | 2023-10-15 | [Three Dimensions](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-09)
 | 2023-10-16    | 2023-10-22 | [Money](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-16)
 | 2023-10-23    | 2023-10-29 | [Spooky](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-23)
+| 2023-12-04    | 2023-12-10 | [Mountains](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-04)
+| 2023-12-11    | 2023-12-17 | [Globe](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-11)
+| 2023-12-18    | 2023-12-24 | [Redo](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-18)
+| 2023-12-25    | 2023-12-31 | [Holiday](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-25)
 
 # How Map Prompt Monday Works
 
