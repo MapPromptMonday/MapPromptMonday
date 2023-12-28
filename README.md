@@ -9,56 +9,16 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 # Map Prompts
 
 [2023 prompts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023)
+[2024 prompts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024)
 
 | Start Date    | End Date   | Prompt     |
 | ---           | ---        | ---        |
-| 2023-01-02    | 2023-01-08 | [Region(s)](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-02)|
-| 2023-01-09    | 2023-01-15 | [Heat Map or Hot Spot Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-09)|
-| 2023-01-16    | 2023-01-22 | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-16)|
-| 2023-01-23    | 2023-01-29 | [Film/TV](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-23)|
-| 2023-01-30    | 2023-02-05 | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-01-30)|
-| 2023-02-06    | 2023-02-12 | [Climate/Weather](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-06)
-| 2023-02-13    | 2023-02-19 | [Bivariate Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-13)
-| 2023-02-20    | 2023-02-26 | [Black and White / Grayscale](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-20)
-| 2023-02-27    | 2023-03-05 | [NGO Data](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-02-27)
-| 2023-03-06    | 2023-03-12 | [Favorite Animal](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-03-06)
-| 2023-03-13    | 2023-03-19 | [Earth Imagery](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-03-13)
-| 2023-03-20    | 2023-03-26 | [Inspired By...](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-03-20)
-| 2023-03-27    | 2023-04-02 | [Recent Environmental Disaster](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-03-27)
-| 2023-04-03    | 2023-04-09 | [Bucket List](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-04-03)
-| 2023-04-10    | 2023-04-16 | [Topography](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-04-10)
-| 2023-04-17    | 2023-04-23 | [Environment](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-04-17)
-| 2023-04-24    | 2023-04-30 | [Disease](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-04-24)
-| 2023-05-01    | 2023-05-07 | [Urban vs. Rural](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-01)
-| 2023-05-08    | 2023-05-14 | [Home](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-08)
-| 2023-05-15    | 2023-05-21 | [Proportional Symbols](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-15)
-| 2023-05-22    | 2023-05-28 | [Book Cover](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-22)
-| 2023-05-29    | 2023-06-04 | [Climate Chg Vulnerability](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-05-29)
-| 2023-06-05    | 2023-06-11 | [Safety](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-05)
-| 2023-06-12    | 2023-06-18 | [Arctic or Antarctic](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-12)
-| 2023-06-19    | 2023-06-25 | [Solstice/Seasons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-19)
-| 2023-06-26    | 2023-07-02 | [Plants](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-06-26)
-| 2023-07-03    | 2023-07-09 | [Snow or Ice](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-03)
-| 2023-07-10    | 2023-07-16 | [Deserts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-10)
-| 2023-07-17    | 2023-07-23 | [Desserts](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-17)
-| 2023-07-24    | 2023-07-30 | [Natural Wonders](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-24)
-| 2023-07-31    | 2023-08-06 | [Health](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-07-31)
-| 2023-08-07    | 2023-08-13 | [Voronoi Polygons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-07)
-| 2023-08-14    | 2023-08-20 | [Map of Personalities](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-14)
-| 2023-08-21    | 2023-08-27 | [Purple](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-21)
-| 2023-08-28    | 2023-09-03 | [Media to Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-08-28)
-| 2023-09-04    | 2023-09-10 | [Animation](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-09-04)
-| 2023-09-11    | 2023-09-17 | [Transportation](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-09-11)
-| 2023-09-18    | 2023-09-24 | [Firefly Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-09-18)
-| 2023-09-25    | 2023-10-01 | [Sports](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-09-25)
-| 2023-10-02    | 2023-10-08 | [Water](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-02)
-| 2023-10-09    | 2023-10-15 | [Three Dimensions](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-09)
-| 2023-10-16    | 2023-10-22 | [Money](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-16)
-| 2023-10-23    | 2023-10-29 | [Spooky](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-10-23)
-| 2023-12-04    | 2023-12-10 | [Mountains](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-04)
-| 2023-12-11    | 2023-12-17 | [Globe](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-11)
-| 2023-12-18    | 2023-12-24 | [Redo](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-18)
-| 2023-12-25    | 2023-12-31 | [Holiday](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2023/2023-12-25)
+| 2024-01-01    | 2024-01-07 | [New Tool or Map Type](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-01)|
+| 2024-01-08    | 2024-01-14 | [Travel Plans](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-08)|
+| 2024-01-15    | 2024-01-21 | [Hexagons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-15)|
+| 2024-01-22    | 2024-01-28 | [Municipal Data](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-22)|
+| 2024-01-29    | 2024-02-04 | [Boundaries](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-29)|
+
 
 # How Map Prompt Monday Works
 
