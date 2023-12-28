@@ -1,4 +1,4 @@
-## Week of January 1 to January 7 (Prompt = New Tool or Map)
+## Week of January 1 to January 7 (Prompt = New Tool or Map Type)
 
 #### Prompt: Happy New Year! Start off your New Year's Resolution to improve your mapping by creating a map using a tool or software you have not used before, or make a type of map you have never created before. For example, if you have been wanting to try a new software like R, Leaflet, QGIS, Blender, and so on, or you have never made a cartogram before, here's a chance to try something new!
 
