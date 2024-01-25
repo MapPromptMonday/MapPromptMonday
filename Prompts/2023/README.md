@@ -3,6 +3,7 @@
 Prompts by Week in 2023 for #MapPromptMonday
 
 Week of 2023-01-02: Regions
+
 Week of 2023-01-09: Heat Map or Hotspot Map
 Week of 2023-01-16: Colorblind Friendly
 Week of 2023-01-23: Film/TV
