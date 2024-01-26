@@ -18,6 +18,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2024-01-15    | 2024-01-21 | [Hexagons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-15)|
 | 2024-01-22    | 2024-01-28 | [Municipal Data](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-22)|
 | 2024-01-29    | 2024-02-04 | [Boundaries](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-01-29)|
+| 2024-02-05    | 2024-02-11 | [World](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-02-05)|
+| 2024-02-12    | 2024-02-18 | [Islands](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-02-12)|
+| 2024-02-19    | 2024-02-25 | [Choropleth](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-02-19)|
+| 2024-02-26    | 2024-03-03 | [Population](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-02-26)|
 
 
 # How Map Prompt Monday Works
