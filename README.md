@@ -22,6 +22,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2024-02-12    | 2024-02-18 | [Islands](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-02-12)|
 | 2024-02-19    | 2024-02-25 | [Choropleth](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-02-19)|
 | 2024-02-26    | 2024-03-03 | [Population](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-02-26)|
+| 2024-03-04    | 2024-03-10 | [Bivariate](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-03-04)|
+| 2024-03-11    | 2024-03-17 | [Not My Country](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-03-11)|
+| 2024-03-18    | 2024-03-24 | [Orange](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-03-18)|
+| 2024-03-25    | 2024-03-31 | [Historical](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-03-25)|
 
 
 # How Map Prompt Monday Works
