@@ -31,6 +31,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2024-04-15    | 2024-04-21 | [Plants](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-04-15)
 | 2024-04-22    | 2024-04-28 | [Urban](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-04-22)
 | 2024-04-29    | 2024-05-05 | [Reference](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-04-29)
+| 2024-05-06    | 2024-05-12 | [Agriculture](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-05-06)
+| 2024-05-13    | 2024-05-19 | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-05-13)
+| 2024-05-20    | 2024-05-26 | [Proportional Symbols](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-05-20)
+| 2024-05-27    | 2024-06-02 | [Dinosaurs](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-05-27)
 
 
 # How Map Prompt Monday Works
