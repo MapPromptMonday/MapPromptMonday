@@ -35,6 +35,10 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2024-05-13    | 2024-05-19 | [Colorblind Friendly](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-05-13)
 | 2024-05-20    | 2024-05-26 | [Proportional Symbols](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-05-20)
 | 2024-05-27    | 2024-06-02 | [Dinosaurs](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-05-27)
+| 2024-06-03    | 2024-06-09 | [Flow Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-06-03)
+| 2024-06-10    | 2024-06-16 | [Literature](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-06-10)
+| 2024-06-17    | 2024-06-23 | [Solstice/Seasons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-06-17)
+| 2024-06-24    | 2024-06-30 | [Topography](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-06-24)
 
 
 # How Map Prompt Monday Works
