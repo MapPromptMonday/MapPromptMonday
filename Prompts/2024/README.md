@@ -45,3 +45,12 @@ Week of 2024-05-13: Colorblind Friendly
 Week of 2024-05-20: Proportional Symbols
 
 Week of 2024-05-27: Dinosaurs
+
+Week of 2024-06-03: Flow Map
+
+Week of 2024-06-10: Literature
+
+Week of 2024-06-17: Solstice/Seasons
+
+Week of 2024-06-24: Topography
+
