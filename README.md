@@ -39,6 +39,11 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2024-06-10    | 2024-06-16 | [Literature](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-06-10)
 | 2024-06-17    | 2024-06-23 | [Solstice/Seasons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-06-17)
 | 2024-06-24    | 2024-06-30 | [Topography](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-06-24)
+| 2024-07-01    | 2024-07-07 | [Forests](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-07-01)
+| 2024-07-08    | 2024-07-14 | [Earth Imagery](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-07-08)
+| 2024-07-15    | 2024-07-21 | [Heat Map](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-07-15)
+| 2024-07-22    | 2024-07-28 | [Olympics](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-07-22)
+| 2024-07-29    | 2024-08-04 | [Music](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-07-29)
 
 
 # How Map Prompt Monday Works
