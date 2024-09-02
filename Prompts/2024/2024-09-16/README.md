@@ -1,4 +1,4 @@
-## Week of September 16th to September 16th (Prompt = Engineering)
+## Week of September 16th to September 22nd (Prompt = Engineering)
 
 #### Prompt: Make a map that in some way relates to engineering, whether its buildings or something else people build!
 
