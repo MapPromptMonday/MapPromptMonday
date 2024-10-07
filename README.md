@@ -53,6 +53,9 @@ The intent of Map Prompt Monday is to create a welcoming, supportive, and though
 | 2024-09-16    | 2024-09-22 | [Engineering](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-09-16)
 | 2024-09-23    | 2024-09-29 | [Voronoi Polygons](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-09-23)
 | 2024-09-30    | 2024-10-06 | [Death](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-09-30)
+| 2024-10-07    | 2024-10-13 | [Languages](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-10-07)
+| 2024-10-14    | 2024-10-20 | [Three Dimensions](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-10-14)
+| 2024-10-21    | 2024-10-27 | [Environment](https://github.com/MapPromptMonday/MapPromptMonday/tree/main/Prompts/2024/2024-10-21)
 
 
 # How Map Prompt Monday Works
